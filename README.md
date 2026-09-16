@@ -7,6 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/Version-1.0.0-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Download](https://img.shields.io/badge/Download-Zip-blue?style=for-the-badge&logo=github)
 
 **Discord Self Bot đa năng với đầy đủ tính năng spam, raid, nhạc, giải trí, quản lý và proxy rotation.**
 
