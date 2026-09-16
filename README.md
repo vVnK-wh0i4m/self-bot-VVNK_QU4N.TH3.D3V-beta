@@ -225,13 +225,23 @@ python index.py
 
 ## ⚙️ Cấu hình
 
+### File `tokens.txt`
+
+Mở file `tokens.txt` và điền User Token:
+
+```
+MTQ2ODIzOTA1NzM1MDk1NTA5OQ.G1xxxxx.xxxxxxxxxxxxxxxxxxxxxxxx
+```
+
+> Nếu dùng nhiều token, mỗi token 1 dòng.
+
 ### File `config/config.json`
 
 ```json
 {
-    "token": "DISCORD_TOKEN_CỦA_BẠN",
+    "token": "ĐIỀN_USER_TOKEN_VÀO_ĐÂY",
     "prefix": ".",
-    "sniper_webhook": "WEBHOOK_URL"
+    "sniper_webhook": "ĐIỀN_WEBHOOK_URL_VÀO_ĐÂY"
 }
 ```
 
@@ -246,11 +256,11 @@ python index.py
 Danh sách proxy (mỗi dòng 1 proxy):
 
 ```
-http://ip:port
-socks5://ip:port
+ip:port
+ip:port:username:password
 ```
 
-> Bot sẽ tự động fetch proxy từ API nếu file trống.
+> Để trống file này nếu không dùng proxy. Bot sẽ tự động fetch proxy từ API.
 
 ### File `cogs/cycstatus.txt`
 
