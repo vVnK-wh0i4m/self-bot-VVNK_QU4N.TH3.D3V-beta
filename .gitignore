@@ -1,6 +1,7 @@
 config/config.json
 config/proxies.txt
 config.json
+tokens.txt
 .env
 __pycache__/
 *.pyc
