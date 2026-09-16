@@ -1,0 +1,14 @@
+# ============================================
+# HƯỚNG DẪN ĐIỀN TOKEN
+# ============================================
+# Cách lấy User Token:
+# 1. Mở Discord trên trình duyệt (browser)
+# 2. F12 → Network → Gửi tin nhắn bất kỳ
+# 3. Tìm request → Headers → Authorization
+# 4. Copy giá trị Authorization (KHÔNG có "Bot " hay "Bearer ")
+#
+# VD: MTQ2ODIzOTA1NzM1MDk1NTA5OQ.G1xxxxx.xxxxxxxxxxxxxxxxxxxxxxxx
+# ============================================
+
+# Điền User Token vào đây (mỗi token 1 dòng nếu dùng multi-token)
+MTQ2ODIzOTA1NzM1MDk1NTA5OQ.G1xxxxx.xxxxxxxxxxxxxxxxxxxxxxxx
