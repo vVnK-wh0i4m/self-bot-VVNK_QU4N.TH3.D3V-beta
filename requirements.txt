@@ -1,0 +1,9 @@
+discord.py-self
+aiohttp
+requests
+pynacl
+pytz
+psutil
+colour
+python-dateutil
+instaloader

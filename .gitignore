@@ -1,0 +1,15 @@
+config/config.json
+config/proxies.txt
+config.json
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+trash/
+*.zip
+music_cache/
+*.log
+.venv/
+venv/
+datoken.txt
